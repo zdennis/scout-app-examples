@@ -1,0 +1,14 @@
+/* line 3, ../app/stylesheets/app.sass */
+body {
+  background-color: red;
+}
+
+/* line 52, /Applications/Scout.app/Contents/Resources/vendor/gems/gems/zen-grids-1.2/stylesheets/zen/_grids.scss */
+.container:before, .container:after {
+  content: "";
+  display: table;
+}
+/* line 56, /Applications/Scout.app/Contents/Resources/vendor/gems/gems/zen-grids-1.2/stylesheets/zen/_grids.scss */
+.container:after {
+  clear: both;
+}
